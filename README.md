@@ -1,7 +1,5 @@
-﻿# Mi proyecto
+﻿Mi proyecto
 
-### 
-
-#### este es un protecto para aprender git y gitHub
+este es un protecto para aprender git y gitHub
 
 un compañerlo modifica readme
